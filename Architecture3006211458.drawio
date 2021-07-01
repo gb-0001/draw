@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T13:00:09.613Z" agent="5.0 (Windows)" etag="qANaeS3cEkk3x9FcVA25" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T06:45:59.976Z" agent="5.0 (Windows)" etag="L5jbCy0xGkZgxowpZ-g_" version="14.8.2" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
-    <mxGraphModel dx="2062" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1931" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,9 +142,6 @@
         </mxCell>
         <mxCell id="pjmIetQvR6zGhoLavZei-199" value="S3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=70;strokeWidth=1;align=left;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1200" y="180" width="147" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="pjmIetQvR6zGhoLavZei-200" value="&lt;div&gt;Bucket BDD &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1215" y="254.18" width="116.99" height="105.82" as="geometry" />
         </mxCell>
         <mxCell id="pjmIetQvR6zGhoLavZei-203" value="BDD Mysql" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1035" y="458.08" width="116.99" height="101.11" as="geometry" />
